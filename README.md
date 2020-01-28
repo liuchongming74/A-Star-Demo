@@ -1,9 +1,11 @@
 # A-star algorithm demo
 Given start and destination coordinates in the below map, the algorithm return a shortest path between those two point.
-![Game Map](https://github.com/liuchongming74/A-Star-Demo/blob/master/algorithm_assignment/map.png)
+
+![Game Map](https://github.com/liuchongming74/A-Star-Demo/blob/master/given_map.png)
 
 For example, given start (11, 5) and destination (1, 36), application would give the below shortest path:
-![Output path](https://github.com/liuchongming74/A-Star-Demo/blob/master/algorithm_assignment/result.png)
+
+![Output path](https://github.com/liuchongming74/A-Star-Demo/blob/master/output_path.png)
 
 In `a_star.py`, modify `startPoint` and `endPoint` to allocate.
 ```Python
